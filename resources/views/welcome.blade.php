@@ -34,5 +34,9 @@ Sed efficitur, nunc ut hendrerit hendrerit, massa odio finibus magna, in semper 
     </i></p>
 
 <p>Repo: <a target="_blank" href="https://github.com/sweebee/Test">https://github.com/sweebee/Test</a></p>
+
+<br/><br/><br/><br/>
+<pre>{{print_r(session()->all())}}</pre>
+
 </body>
 </html>
